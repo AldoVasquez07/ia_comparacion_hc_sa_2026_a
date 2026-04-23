@@ -1,0 +1,1 @@
+# ia_comparacion_hc_sa_2026_a
