@@ -1,9 +1,8 @@
-```markdown
-# 🚀 Optimización Lab: Hill Climbing & Simulated Annealing
+# Optimización Lab: Hill Climbing & Simulated Annealing
 
 Bienvenido al laboratorio visual de algoritmos de optimización. Este proyecto permite visualizar en tiempo real cómo funcionan las búsquedas locales y comparar su eficiencia.
 
-## 👥 Equipo de Trabajo
+## Equipo de Trabajo
 * **Aldo** (Líder de Proyecto & Arquitectura Base)
 * **Integrante 1** (Módulo: Hill Climbing)
 * **Integrante 2** (Módulo: Simulated Annealing)
@@ -11,7 +10,7 @@ Bienvenido al laboratorio visual de algoritmos de optimización. Este proyecto p
 
 ---
 
-## 🛠️ Guía de Inicio Rápido (Local)
+## Guía de Inicio Rápido (Local)
 
 Sigue estos pasos para tener el proyecto corriendo en tu computadora en menos de 2 minutos:
 
@@ -39,7 +38,7 @@ Una vez ejecutado, abre tu navegador en: [http://localhost:5173](http://localhos
 
 ---
 
-## 📂 Estructura del Proyecto (Dónde trabajar)
+## Estructura del Proyecto (Dónde trabajar)
 
 Cada uno tiene una carpeta asignada para evitar conflictos en Git. **No toques archivos fuera de tu carpeta** a menos que sea necesario:
 
@@ -51,16 +50,7 @@ Los estilos globales y el enrutado principal están en `src/App.jsx`.
 
 ---
 
-## 🎨 Herramientas Incluidas
+## Herramientas Incluidas
 * **Vite + React:** Para una carga ultra rápida.
 * **Lucide React:** Biblioteca de iconos (usa `import { IconName } from 'lucide-react'`).
 * **CSS-in-JS:** Estilos modulares para mantener la interfaz limpia.
-
----
-
-## 🚀 Despliegue
-Este proyecto está configurado para desplegarse automáticamente en **Render** cada vez que se haga un push a la rama `main`.
-
----
-*💡 "La optimización no es un destino, es un proceso de búsqueda local con saltos probabilísticos."*
-```
